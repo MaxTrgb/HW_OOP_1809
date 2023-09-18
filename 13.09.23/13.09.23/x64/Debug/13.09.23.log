@@ -1,0 +1,9 @@
+﻿  13.09.23.cpp
+  Camera.cpp
+  Component.cpp
+  Display.cpp
+  MobilePhone.cpp
+  Processor.cpp
+  Generating Code...
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\13.09.23.ilk' (which will be deleted); linking nonincrementally
+  13.09.23.vcxproj -> D:\Study\C++\CLASS\13.09.23\13.09.23\x64\Debug\13.09.23.exe
